@@ -1,4 +1,4 @@
-# Diabetes-Prediction
+# Diabetes-Prediction-using-ml
 Diabetes Prediction using Machine Learning
 Overview:
 This GitHub repository presents a Diabetes Prediction model leveraging Machine Learning (ML) techniques. The aim is to predict the likelihood of an individual developing diabetes based on various factors, enabling early intervention and personalized healthcare strategies
